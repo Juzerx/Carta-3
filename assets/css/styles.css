@@ -17,7 +17,7 @@
 }
 
 body {
-    background-image: url(/assets/imgs/stars.gif);
+    background-image: url(../imgs/stars.gif);
     background-size: cover;
     font-family: "Rouge Script", serif;
 }
